@@ -1,4 +1,4 @@
-require "motion_sprites/config"
+require "motion_sprites/version"
 require "motion_sprites/motion_sprites"
 
 unless defined?(Motion::Project::Config)
