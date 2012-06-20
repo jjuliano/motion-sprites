@@ -1,5 +1,3 @@
-module Motion
-  module Sprites
-    VERSION = "0.0.1"
-  end
+module MotionSprites
+  VERSION = "0.0.1"
 end

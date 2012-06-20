@@ -13,5 +13,5 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.name          = "motion-sprites"
   gem.require_paths = ["lib"]
-  gem.version       = Motion::Sprites::VERSION
+  gem.version       = MotionSprites::VERSION
 end

@@ -1,4 +1,4 @@
-class Motion::Sprites
+class MotionSprites
   def initialize(sprite)
     @sprite = UIImage.imageNamed("#{sprite}")
   end
