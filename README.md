@@ -28,3 +28,6 @@ You can also use Hash and Strings for your coordinates
     # or
 
     MotionSprites.new('spritesheet.png').coordinates("200, 70, 50, 50")
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jjuliano/motion-sprites/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
